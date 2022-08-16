@@ -1,0 +1,5 @@
+moviedb:
+  apikey:
+  address: "https://api.themoviedb.org/3/"
+  apis:
+    top-rated: "movie/top_rated"
