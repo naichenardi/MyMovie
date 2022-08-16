@@ -29,5 +29,4 @@ data class Movie(
     @JsonProperty("video") var video: Boolean? = null,
     @JsonProperty("vote_average") var voteAverage: Double? = null,
     @JsonProperty("vote_count") var voteCount: Int? = null
-
 )
